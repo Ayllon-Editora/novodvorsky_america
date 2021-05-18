@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  17 MAY 2021 23:19
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  17 MAY 2021 23:34
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1116,58 +1116,58 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 ) [7]
-[8] [9]) (./PREFACIO.tex [10] [11
+[8] [9]) (./TEXTO.tex [10] [11
 
-] [12] [13] [14] [15] [16]) (./TEXTO.tex
-[17] [18
-
-] [19] [20]
+] [12]
 
 LaTeX Font Warning: Font shape `TU/Formular(0)/b/sc' undefined
 (Font)              using `TU/Formular(0)/b/n' instead on input line 3.
 
-[21
+[13
 
-] [22] [23
+] [14] [15
 
-] [24] [25] [26] [27
+] [16] [17] [18] [19
 
-] [28] [29] [30
+] [20] [21] [22
+
+] [23] [24] [25
+
+] [26] [27]
+[28] [29] [30
 
 ] [31] [32] [33
 
-] [34] [35]
-[36] [37] [38
+] [34] [35] [36] [37
 
-] [39] [40] [41
-
-] [42] [43] [44] [45
-
-] [46] [47] [48] [49] [50
+] [38] [39] [40] [41] [42
 
 ]
-[51] [52] [53] [54
+[43] [44] [45] [46
 
-] [55] [56] [57] [58] [59] [60
+] [47] [48] [49] [50] [51] [52
 
-] [61] [62] [63] [64] [65]
-[66
+] [53] [54] [55] [56] [57]
+[58
 
-] [67] [68] [69] [70] [71] [72] [73
+] [59] [60] [61] [62] [63] [64] [65
 
-] [74] [75] [76] [77] [78
+] [66] [67] [68] [69] [70
 
-] [79] [80]
-[81] [82
+] [71] [72]
+[73] [74
 
-] [83] [84] [85] [86] [87] [88
+] [75] [76] [77] [78] [79] [80
 
-] [89] [90] [91] [92
+] [81] [82] [83] [84
 
-] [93] [94] [95]
-[96] [97
+] [85] [86] [87]
+[88] [89
 
-]) [98]) [99]
+]) (./PREFACIO.tex [90] [91] [92
+
+] [93] [94] [95] [96] [97] [98]))
+[99]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1215,7 +1215,7 @@ MinionPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></Users/s
 uzana/Library/Fonts/Formular-Regular.otf></usr/local/texlive/2020/texmf-dist/fon
 ts/opentype/public/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fo
 nts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (99 pages, 358776 bytes).
+Output written on LIVRO.pdf (99 pages, 358972 bytes).
 
 PDF statistics: 389 PDF objects out of 1000 (max. 8388607)
  253 compressed objects within 3 object streams

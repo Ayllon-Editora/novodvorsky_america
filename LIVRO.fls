@@ -1,4 +1,4 @@
-PWD /Users/suzana/Desktop/EDLAB/EDITORIAL/teste
+PWD /Users/suzana/Desktop/EDLAB/EDITORIAL/LATEX/novodvorsky_america
 INPUT /usr/local/texlive/2020/texmf-var/web2c/luahbtex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log
@@ -250,11 +250,11 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT ./PREFACIO.tex
-INPUT ./PREFACIO.tex
 INPUT ./TEXTO.tex
 INPUT ./TEXTO.tex
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-subh.luc
+INPUT ./PREFACIO.tex
+INPUT ./PREFACIO.tex
 OUTPUT LIVRO.toc
 INPUT ./LIVRO.aux
 INPUT ./INPUTS.aux

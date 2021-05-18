@@ -1,25 +1,25 @@
 \contentsline {chapter}{Apresentação, \textit {por Lilian Starobinas}}{7}%
-\contentsline {chapter}{Prefácio, \textit {por Roney Cytrynowicz}}{11}%
-\contentsline {part}{Em busca de meus irmãos na América}{19}%
-\contentsline {chapter}{Capítulo \textsc {i}}{21}%
-\contentsline {chapter}{Capítulo \textsc {ii}}{23}%
-\contentsline {chapter}{Capítulo \textsc {iii}}{27}%
-\contentsline {chapter}{Capítulo \textsc {iv}}{31}%
-\contentsline {chapter}{Capítulo \textsc {v}}{33}%
-\contentsline {chapter}{Capítulo \textsc {vi}}{39}%
-\contentsline {chapter}{Capítulo \textsc {vii}}{41}%
-\contentsline {chapter}{Capítulo \textsc {viii}}{45}%
-\contentsline {chapter}{Capítulo \textsc {ix}}{51}%
-\contentsline {chapter}{Capítulo \textsc {x}}{55}%
-\contentsline {chapter}{Capítulo \textsc {xi}}{61}%
-\contentsline {chapter}{Capítulo \textsc {xii}}{67}%
-\contentsline {paragraph}{\textbf }{69}%
-\contentsline {paragraph}{\textbf }{69}%
-\contentsline {paragraph}{\textbf }{69}%
-\contentsline {chapter}{Capítulo \textsc {xiii}}{73}%
-\contentsline {chapter}{Capítulo \textsc {xiv}}{79}%
-\contentsline {chapter}{Capítulo \textsc {xv}}{83}%
-\contentsline {chapter}{Capítulo \textsc {xvi}}{89}%
-\contentsline {chapter}{Capítulo \textsc {xvii}}{93}%
-\contentsline {chapter}{Capítulo \textsc {xviii}}{97}%
+\contentsline {part}{Em busca de meus irmãos na América}{11}%
+\contentsline {chapter}{Capítulo \textsc {i}}{13}%
+\contentsline {chapter}{Capítulo \textsc {ii}}{15}%
+\contentsline {chapter}{Capítulo \textsc {iii}}{19}%
+\contentsline {chapter}{Capítulo \textsc {iv}}{23}%
+\contentsline {chapter}{Capítulo \textsc {v}}{25}%
+\contentsline {chapter}{Capítulo \textsc {vi}}{31}%
+\contentsline {chapter}{Capítulo \textsc {vii}}{33}%
+\contentsline {chapter}{Capítulo \textsc {viii}}{37}%
+\contentsline {chapter}{Capítulo \textsc {ix}}{43}%
+\contentsline {chapter}{Capítulo \textsc {x}}{47}%
+\contentsline {chapter}{Capítulo \textsc {xi}}{53}%
+\contentsline {chapter}{Capítulo \textsc {xii}}{59}%
+\contentsline {paragraph}{\textbf }{61}%
+\contentsline {paragraph}{\textbf }{61}%
+\contentsline {paragraph}{\textbf }{61}%
+\contentsline {chapter}{Capítulo \textsc {xiii}}{65}%
+\contentsline {chapter}{Capítulo \textsc {xiv}}{71}%
+\contentsline {chapter}{Capítulo \textsc {xv}}{75}%
+\contentsline {chapter}{Capítulo \textsc {xvi}}{81}%
+\contentsline {chapter}{Capítulo \textsc {xvii}}{85}%
+\contentsline {chapter}{Capítulo \textsc {xviii}}{89}%
+\contentsline {chapter}{Posfácio, \textit {por Roney Cytrynowicz}}{93}%
 \babel@toc {brazilian}{}
