@@ -1,25 +1,25 @@
 \contentsline {chapter}{Apresentação, \textit {por Lilian Starobinas}}{7}%
-\contentsline {part}{Em busca de meus irmãos na América}{11}%
-\contentsline {chapter}{Capítulo \textsc {i}}{13}%
-\contentsline {chapter}{Capítulo \textsc {ii}}{15}%
-\contentsline {chapter}{Capítulo \textsc {iii}}{19}%
-\contentsline {chapter}{Capítulo \textsc {iv}}{23}%
-\contentsline {chapter}{Capítulo \textsc {v}}{25}%
-\contentsline {chapter}{Capítulo \textsc {vi}}{31}%
-\contentsline {chapter}{Capítulo \textsc {vii}}{33}%
-\contentsline {chapter}{Capítulo \textsc {viii}}{37}%
-\contentsline {chapter}{Capítulo \textsc {ix}}{43}%
-\contentsline {chapter}{Capítulo \textsc {x}}{47}%
-\contentsline {chapter}{Capítulo \textsc {xi}}{53}%
-\contentsline {chapter}{Capítulo \textsc {xii}}{59}%
-\contentsline {paragraph}{\textbf }{61}%
-\contentsline {paragraph}{\textbf }{61}%
-\contentsline {paragraph}{\textbf }{61}%
-\contentsline {chapter}{Capítulo \textsc {xiii}}{65}%
-\contentsline {chapter}{Capítulo \textsc {xiv}}{71}%
-\contentsline {chapter}{Capítulo \textsc {xv}}{75}%
-\contentsline {chapter}{Capítulo \textsc {xvi}}{81}%
-\contentsline {chapter}{Capítulo \textsc {xvii}}{85}%
-\contentsline {chapter}{Capítulo \textsc {xviii}}{89}%
-\contentsline {chapter}{Posfácio, \textit {por Roney Cytrynowicz}}{93}%
+\contentsline {part}{Em busca de meus irmãos na América}{13}%
+\contentsline {chapter}{A partida da Polônia}{15}%
+\contentsline {chapter}{Os primeiros anos na Argentina}{17}%
+\contentsline {chapter}{Da capital ao interior}{21}%
+\contentsline {chapter}{De charrete em Mosesville}{25}%
+\contentsline {chapter}{Do trabalho aos palcos}{27}%
+\contentsline {chapter}{Primeira parada rumo ao Norte}{33}%
+\contentsline {chapter}{Rio de Janeiro e seus caminhos}{35}%
+\contentsline {chapter}{Tirando a \textit {sorte}}{39}%
+\contentsline {chapter}{Um passo atrás}{45}%
+\contentsline {chapter}{O casamento em Recife}{49}%
+\contentsline {chapter}{Ganhando a vida nos anos 30}{55}%
+\contentsline {chapter}{Um ativista comunitário}{61}%
+\contentsline {paragraph}{\textbf }{63}%
+\contentsline {paragraph}{\textbf }{63}%
+\contentsline {paragraph}{\textbf }{63}%
+\contentsline {chapter}{Com meus irmãos na América}{67}%
+\contentsline {chapter}{Capítulo \textsc {xiv}}{73}%
+\contentsline {chapter}{A mudança para São Paulo}{77}%
+\contentsline {chapter}{O cinema no Bom Retiro}{83}%
+\contentsline {chapter}{Negócios em família}{87}%
+\contentsline {chapter}{Tempos de crise}{91}%
+\contentsline {chapter}{Posfácio, \textit {por Roney Cytrynowicz}}{95}%
 \babel@toc {brazilian}{}
