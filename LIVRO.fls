@@ -241,6 +241,8 @@ INPUT ./logo.png
 INPUT ./logo.png
 INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
+INPUT ./PRETAS.tex
+INPUT ./PRETAS.tex
 INPUT ./APRESENTACAO.tex
 INPUT ./APRESENTACAO.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
@@ -263,13 +265,10 @@ INPUT ./Y-publicidade.tex
 INPUT ./Y-publicidade.tex
 INPUT ./Z-colofon.tex
 INPUT ./Z-colofon.tex
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy7.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy5.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/arkandis/adforn/OrnementsADF.tfm

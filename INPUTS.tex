@@ -19,9 +19,14 @@
 \ifodd\thepage\relax\else\blankpage\fi 	% Verifica se página é par e coloca página branca
 \tableofcontents*
 
+\pagebreak
+\begingroup \footnotesize \parindent0pt \parskip 5pt \thispagestyle{empty} \vspace*{-0.5\textheight}\mbox{} \vfill
+\baselineskip=.92\baselineskip
+\input{PRETAS.tex}
+\endgroup
+
 \input{APRESENTACAO}
 \input{TEXTO}
 \input{PREFACIO}
-
 \input{Y-publicidade}	   % [lista de livros publicados]
 \input{Z-colofon}		   % [colofon]

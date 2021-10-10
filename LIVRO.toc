@@ -7,7 +7,7 @@
 \contentsline {chapter}{Do trabalho aos palcos}{27}%
 \contentsline {chapter}{Primeira parada rumo ao Norte}{33}%
 \contentsline {chapter}{Rio de Janeiro e seus caminhos}{35}%
-\contentsline {chapter}{Tirando a \textit {sorte}}{39}%
+\contentsline {chapter}{Tirando a sorte}{39}%
 \contentsline {chapter}{Um passo atrás}{45}%
 \contentsline {chapter}{O casamento em Recife}{49}%
 \contentsline {chapter}{Ganhando a vida nos anos 30}{55}%
