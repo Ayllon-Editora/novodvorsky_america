@@ -15,8 +15,8 @@
 \contentsline {paragraph}{\textbf }{63}%
 \contentsline {paragraph}{\textbf }{63}%
 \contentsline {paragraph}{\textbf }{63}%
-\contentsline {chapter}{Com meus irmãos na América}{67}%
-\contentsline {chapter}{Capítulo \textsc {xiv}}{73}%
+\contentsline {chapter}{Com meus irmãos, na América}{67}%
+\contentsline {chapter}{Uma vida no Brasil}{73}%
 \contentsline {chapter}{A mudança para São Paulo}{77}%
 \contentsline {chapter}{O cinema no Bom Retiro}{83}%
 \contentsline {chapter}{Negócios em família}{87}%

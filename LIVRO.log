@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  10 OCT 2021 18:11
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  25 OCT 2021 10:02
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1169,24 +1169,20 @@ RS)
 
 ] [68] [69] [70] [71] [72
 
-]
+] [73] [74] [75] [76
 
-LaTeX Font Warning: Font shape `TU/Formular(0)/b/sc' undefined
-(Font)              using `TU/Formular(0)/b/n' instead on input line 1511.
-
-[73] [74] [75] [76
-
-] [77] [78] [79] [80] [81] [82
+] [77] [78] [79]
+[80] [81] [82
 
 ] [83] [84] [85] [86
 
-] [87]
-[88] [89] [90] [91
+] [87] [88] [89] [90] [91
 
-]) (./PREFACIO.tex [92] [93] [94
+]) (./PREFACIO.tex
+[92] [93] [94
 
-] [95] [96] [97] [98]
-[99] [100]) (./Y-publicidade.tex [101]) [102] (./Z-colofon.tex [103]
+] [95] [96] [97] [98] [99] [100]) (./Y-publicidade.tex [101])
+[102] (./Z-colofon.tex [103]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1217,24 +1213,20 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 \tf@toc=\write5
 
 \openout5 = LIVRO.toc
-(./LIVRO.aux (./INPUTS.aux))
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-)
+(./LIVRO.aux (./INPUTS.aux)))
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 4 (\begingroup)
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 13449 strings out of 480992
+ 13447 strings out of 480992
  100000,953878 words of node,token memory allocated
- 1392 words of node memory still in use:
-   5 hlist, 1 vlist, 2 rule, 16 glue, 3 kern, 1 glyph, 35 attribute, 197 glue_sp
-ec, 19 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:938,3:111,4:42,5:1330,6:28,7:3730,8:2,9:268,10:24,11:364
- 30394 multiletter control sequences out of 65536+600000
+ 1418 words of node memory still in use:
+   5 hlist, 1 vlist, 2 rule, 18 glue, 3 kern, 1 glyph, 39 attribute, 197 glue_sp
+ec, 21 attribute_list, 3 shape, 3 write nodes
+   avail lists: 2:926,3:111,4:42,5:1330,6:28,7:3632,8:2,9:268,10:24,11:364
+ 30392 multiletter control sequences out of 65536+600000
  122 fonts using 19147931 bytes
  53i,12n,102p,945b,380s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
@@ -1246,7 +1238,7 @@ nPro-BoldCapt.otf></Users/suzana/Library/Fonts/Formular-Regular.otf></usr/local/
 texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></usr/local
 /texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/loca
 l/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (104 pages, 383366 bytes).
+Output written on LIVRO.pdf (104 pages, 383664 bytes).
 
 PDF statistics: 405 PDF objects out of 1000 (max. 8388607)
  266 compressed objects within 3 object streams
