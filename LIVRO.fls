@@ -243,8 +243,10 @@ INPUT ./LIVRO.toc
 INPUT ./LIVRO.toc
 INPUT ./PRETAS.tex
 INPUT ./PRETAS.tex
-INPUT ./APRESENTACAO.tex
-INPUT ./APRESENTACAO.tex
+INPUT ./PREFACIO.tex
+INPUT ./PREFACIO.tex
+INPUT ./TEXTO.tex
+INPUT ./TEXTO.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
@@ -257,10 +259,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT ./TEXTO.tex
-INPUT ./TEXTO.tex
-INPUT ./PREFACIO.tex
-INPUT ./PREFACIO.tex
+INPUT ./APRESENTACAO.tex
+INPUT ./APRESENTACAO.tex
 INPUT ./Y-publicidade.tex
 INPUT ./Y-publicidade.tex
 INPUT ./Z-colofon.tex
