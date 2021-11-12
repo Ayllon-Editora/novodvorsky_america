@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  11 NOV 2021 22:36
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  11 NOV 2021 23:05
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1220,14 +1220,14 @@ Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 13455 strings out of 480992
+ 13452 strings out of 480992
  100000,953878 words of node,token memory allocated
  1431 words of node memory still in use:
    5 hlist, 1 vlist, 2 rule, 19 glue, 3 kern, 1 glyph, 41 attribute, 197 glue_sp
 ec, 22 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:923,3:111,4:47,5:1379,6:28,7:3836,8:2,9:268,10:23,11:427
- 30400 multiletter control sequences out of 65536+600000
- 125 fonts using 19907475 bytes
+   avail lists: 2:923,3:111,4:47,5:1380,6:28,7:3836,8:2,9:268,10:23,11:427
+ 30397 multiletter control sequences out of 65536+600000
+ 124 fonts using 19640267 bytes
  53i,12n,102p,945b,341s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/MinionPro-Subh.otf></Users/suzana/Library/Fonts/MinionP
@@ -1238,12 +1238,13 @@ nPro-ItCapt.otf></Users/suzana/Library/Fonts/MinionPro-Capt.otf></Users/suzana/L
 ibrary/Fonts/MinionPro-BoldCapt.otf></Users/suzana/Library/Fonts/Formular-Regula
 r.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmmono8-regul
 ar.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/Ornements
-ADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont
-/lcirclew.pfb>
-Output written on LIVRO.pdf (104 pages, 390150 bytes).
+ADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/l
+circlew.pfb>
+Output written on LIVRO.pdf (104 pages, 396769 bytes).
 
-PDF statistics: 419 PDF objects out of 1000 (max. 8388607)
- 274 compressed objects within 3 object streams
+PDF statistics: 423 PDF objects out of 1000 (max. 8388607)
+ 277 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

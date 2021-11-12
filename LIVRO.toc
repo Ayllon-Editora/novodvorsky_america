@@ -16,9 +16,6 @@
 \contentsline {chapter}{O casamento em Recife}{53}%
 \contentsline {chapter}{Ganhando a vida nos anos 30}{59}%
 \contentsline {chapter}{Um ativista comunitário}{65}%
-\contentsline {paragraph}{Presidente}{67}%
-\contentsline {paragraph}{Tesoureiro}{67}%
-\contentsline {paragraph}{Secretária}{67}%
 \contentsline {chapter}{Com meus irmãos, na América}{71}%
 \contentsline {chapter}{Uma vida no Brasil}{77}%
 \contentsline {chapter}{A mudança para São Paulo}{81}%
