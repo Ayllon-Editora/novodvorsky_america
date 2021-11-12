@@ -1,28 +1,28 @@
-\contentsline {chapter}{Introdução, \textit {por Roney Cytrynowicz}}{7}%
-\contentsline {section}{a decisão de emigrar}{7}%
-\contentsline {section}{a difícil jornada da inserção social e econômica}{9}%
-\contentsline {section}{a estrutura comunitária}{10}%
-\contentsline {section}{um anti-herói}{11}%
+\contentsline {chapter}{Apresentação, \textit {por Lilian Starobinas}}{9}%
+\contentsline {section}{sobre a tradução}{10}%
+\contentsline {section}{o contexto histórico}{10}%
 \contentsline {part}{Em busca de meus irmãos na América}{17}%
 \contentsline {chapter}{A partida da Polônia}{19}%
 \contentsline {chapter}{Os primeiros anos na Argentina}{21}%
-\contentsline {chapter}{Da capital ao interior}{25}%
-\contentsline {chapter}{De charrete em Mosesville}{29}%
-\contentsline {chapter}{Do trabalho aos palcos}{31}%
-\contentsline {chapter}{Primeira parada rumo ao Norte}{37}%
-\contentsline {chapter}{Rio de Janeiro e seus caminhos}{39}%
-\contentsline {chapter}{Tirando a sorte}{43}%
-\contentsline {chapter}{Um passo atrás}{49}%
-\contentsline {chapter}{O casamento em Recife}{53}%
-\contentsline {chapter}{Ganhando a vida nos anos 30}{59}%
-\contentsline {chapter}{Um ativista comunitário}{65}%
-\contentsline {chapter}{Com meus irmãos, na América}{71}%
-\contentsline {chapter}{Uma vida no Brasil}{77}%
-\contentsline {chapter}{A mudança para São Paulo}{81}%
-\contentsline {chapter}{O cinema no Bom Retiro}{87}%
-\contentsline {chapter}{Negócios em família}{91}%
-\contentsline {chapter}{Tempos de crise}{95}%
-\contentsline {chapter}{Posfácio, \textit {por Lilian Starobinas}}{99}%
-\contentsline {section}{sobre a tradução}{99}%
-\contentsline {section}{o contexto histórico}{100}%
+\contentsline {chapter}{Da capital ao interior}{27}%
+\contentsline {chapter}{De charrete em Mosesville}{31}%
+\contentsline {chapter}{Do trabalho aos palcos}{33}%
+\contentsline {chapter}{Primeira parada rumo ao Norte}{39}%
+\contentsline {chapter}{Rio de Janeiro e seus caminhos}{41}%
+\contentsline {chapter}{Tirando a sorte}{47}%
+\contentsline {chapter}{Um passo atrás}{55}%
+\contentsline {chapter}{O casamento em Recife}{59}%
+\contentsline {chapter}{Ganhando a vida nos anos 30}{67}%
+\contentsline {chapter}{Um ativista comunitário}{75}%
+\contentsline {chapter}{Com meus irmãos, na América}{83}%
+\contentsline {chapter}{Uma vida no Brasil}{89}%
+\contentsline {chapter}{A mudança para São Paulo}{93}%
+\contentsline {chapter}{O cinema no Bom Retiro}{101}%
+\contentsline {chapter}{Negócios em família}{105}%
+\contentsline {chapter}{Tempos de crise}{111}%
+\contentsline {chapter}{Posfácio, \textit {por Roney Cytrynowicz}}{115}%
+\contentsline {section}{a decisão de emigrar}{116}%
+\contentsline {section}{a difícil jornada da inserção social e econômica}{118}%
+\contentsline {section}{a estrutura comunitária}{119}%
+\contentsline {section}{um anti-herói}{121}%
 \babel@toc {brazilian}{}
