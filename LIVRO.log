@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  12 NOV 2021 00:48
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  12 NOV 2021 12:57
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1109,13 +1109,13 @@ Package fontspec Info: Font family 'MinionPro(1)' created for font 'Minion
 (fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;+smc
 p;"
 
-<logo.png, id=15, 596.2275pt x 544.0325pt>
+<logo.png, id=16, 494.84875pt x 494.84875pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package luatex.def Info: logo.png  used on input line 63.
-(luatex.def)             Requested size: 42.42136pt x 38.70045pt.
+Package luatex.def Info: logo.png  used on input line 60.
+(luatex.def)             Requested size: 56.55975pt x 56.5553pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--67
+Underfull \hbox (badness 10000) in paragraph at lines 59--64
 [] 
  []
 
@@ -1124,7 +1124,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--67
 Class memoir Warning: The material used in the headers is too large
 (12.0pt) for the given head height (11.38109pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 22.
+(in both cases you will find help in the memoir manual). on input line 20.
 
 
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
@@ -1178,11 +1178,6 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 ] [16
 
 ] [17] [18]
-Underfull \hbox (badness 1490) in paragraph at lines 17--21
-\TU/MinionPro(0)/m/n/10 Meu nome é Chaim No-vod-vorsky. Nasci em
- []
-
-
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1196,13 +1191,13 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[21
-
-]
+[21]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[22]
+[22
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1214,13 +1209,17 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[25] [26
-
-]
+[25]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[27]
+[26]
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[27
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1272,19 +1271,17 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[39
+[39]
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[40
 
 ]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[40]
-Overfull \vbox (0.61891pt too high) has occurred while \output is active []
-
-
-[41
-
-]
+[41]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1292,7 +1289,9 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[43]
+[43
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1300,9 +1299,11 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[45] [46
+[45]
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
-]
+
+[46]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1310,7 +1311,9 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[48]
+[48
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1330,13 +1333,17 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[53] [54
-
-]
+[53]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[55]
+[54]
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[55
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1378,13 +1385,17 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[65] [66
-
-]
+[65]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[67]
+[66]
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[67
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1408,7 +1419,11 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[73] [74
+[73]
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[74
 
 ]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
@@ -1472,13 +1487,13 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[89
-
-]
+[89]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[90]
+[90
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1490,13 +1505,13 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[93
-
-]
+[93]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[94]
+[94
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1516,13 +1531,17 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[99] [100
-
-]
+[99]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[101]
+[100]
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[101
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1530,7 +1549,11 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[103] [104
+[103]
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[104
 
 ]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
@@ -1552,9 +1575,13 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[109] [110
+[109
 
 ]
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[110]) (./POSFACIO.tex
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1562,13 +1589,17 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[112]) (./POSFACIO.tex
+[112
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[113] [114
+[113]
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
-]
+
+[114]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1592,32 +1623,213 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[120]
+[120]) (./Y-publicidade.tex
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
 [121]
-Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+luaotfload | aux : font no 110 (nil) defines no feature for script latn
+luaotfload | aux : font no 110 (nil) defines no feature for script dflt
 
+Package fontspec Info: Font family 'ArialHebrew(0)' created for font 'Arial
+(fontspec)             Hebrew' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"ArialHebrew:mode=node;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"ArialHebrew/B:mode=node;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"ArialHebrew/I:mode=node;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"ArialHebrew/BI:mode=node;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-[122]
-Overfull \vbox (0.61891pt too high) has occurred while \output is active []
-
-
-[123]) (./Y-publicidade.tex [124]) [125] (./Z-colofon.tex
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ArialHebrew' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+ [122]) (./Z-colofon.tex [123]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 37.
-)) [126]
+)) [124]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
 Top and edge trims: 56.9055pt and 142.26378pt
 Page height and width: 512.1496pt by 312.9803pt
-Text height and width: 390pt by 202pt
+Text height and width: 386.20209pt by 202pt
 Spine and edge margins: 54.06021pt and 56.90549pt
-Upper and lower margins: 46.55905pt and 75.59055pt
+Upper and lower margins: 46.55905pt and 79.38846pt
 Headheight and headsep: 11.38109pt and 18.06749pt
 Footskip: 22.76219pt
 Columnsep and columnseprule: 10pt and 0pt
@@ -1646,29 +1858,30 @@ either increase the head height or redesign the header
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 13439 strings out of 480992
+ 13482 strings out of 480992
  100000,794899 words of node,token memory allocated
  1436 words of node memory still in use:
    5 hlist, 1 vlist, 2 rule, 19 glue, 3 kern, 1 glyph, 41 attribute, 198 glue_sp
 ec, 22 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:866,3:102,4:39,5:1090,6:26,7:2985,8:2,9:261,10:22,11:314
- 30384 multiletter control sequences out of 65536+600000
- 120 fonts using 19568131 bytes
- 53i,12n,102p,945b,341s stack positions out of 5000i,500n,10000p,200000b,100000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
-ers/suzana/Library/Fonts/MinionPro-It.otf></Users/suzana/Library/Fonts/MinionPro
--Regular.otf></Users/suzana/Library/Fonts/Formular-Bold.otf></Users/suzana/Libra
-ry/Fonts/MinionPro-ItCapt.otf></Users/suzana/Library/Fonts/MinionPro-Capt.otf></
-Users/suzana/Library/Fonts/MinionPro-BoldCapt.otf></Users/suzana/Library/Fonts/F
-ormular-Regular.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm
-/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/ad
-forn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfo
-nts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (126 pages, 417620 bytes).
+   avail lists: 2:812,3:92,4:38,5:1051,6:24,7:2981,8:2,9:253,10:22,11:293
+ 30423 multiletter control sequences out of 65536+600000
+ 133 fonts using 20232139 bytes
+ 53i,12n,102p,945b,418s stack positions out of 5000i,500n,10000p,200000b,100000s
+</System/Library/Fonts/ArialHB.ttc>{/usr/local/texlive/2020/texmf-dist/fonts/enc
+/dvips/adforn/OrnementsADF.enc}</Users/suzana/Library/Fonts/MinionPro-It.otf></U
+sers/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts/For
+mular-Bold.otf></Users/suzana/Library/Fonts/MinionPro-ItCapt.otf></Users/suzana/
+Library/Fonts/MinionPro-Capt.otf></Users/suzana/Library/Fonts/MinionPro-BoldCapt
+.otf></Users/suzana/Library/Fonts/Formular-Italic.otf></Users/suzana/Library/Fon
+ts/Formular-Regular.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/publi
+c/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandi
+s/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
+msfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (124 pages, 430438 bytes).
 
-PDF statistics: 471 PDF objects out of 1000 (max. 8388607)
- 311 compressed objects within 4 object streams
+PDF statistics: 479 PDF objects out of 1000 (max. 8388607)
+ 315 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

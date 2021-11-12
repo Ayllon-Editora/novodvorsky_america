@@ -260,6 +260,17 @@ INPUT ./POSFACIO.tex
 INPUT ./POSFACIO.tex
 INPUT ./Y-publicidade.tex
 INPUT ./Y-publicidade.tex
+INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.luc
+INPUT /System/Library/Fonts/ArialHB.ttc
+INPUT /usr/local/texlive/2020/texmf-dist/tex/luatex/luaotfload/luaotfload-glyphlist.lua
+OUTPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.lua
+INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.lua
+OUTPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.luc
+INPUT /Users/suzana/Library/Fonts/ArialHB.ttc
+OUTPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.lua
+INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.lua
+OUTPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-1.luc
+INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/arialhb-2.luc
 INPUT ./Z-colofon.tex
 INPUT ./Z-colofon.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
