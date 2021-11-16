@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  12 NOV 2021 12:57
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  16 NOV 2021 12:51
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1389,13 +1389,13 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[66]
+[66
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[67
-
-]
+[67]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1419,13 +1419,13 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[73]
+[73
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[74
-
-]
+[74]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1457,13 +1457,13 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[82]
+[82
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[83
-
-]
+[83]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1487,13 +1487,13 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[89]
+[89
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[90
-
-]
+[90]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1505,13 +1505,13 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[93]
+[93
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[94
-
-]
+[94]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1535,13 +1535,13 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[100]
+[100
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[101
-
-]
+[101]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1549,13 +1549,13 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[103]
+[103
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[104
-
-]
+[104]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1571,27 +1571,27 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[108]
-Overfull \vbox (0.61891pt too high) has occurred while \output is active []
-
-
-[109
+[108
 
 ]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[110]) (./POSFACIO.tex
+[109]) (./POSFACIO.tex
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[111]
+[110]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[112
+[111
 
 ]
+Overfull \vbox (0.61891pt too high) has occurred while \output is active []
+
+
+[112]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1619,15 +1619,11 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[119]
+[119]) (./Y-publicidade.tex
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[120]) (./Y-publicidade.tex
-Overfull \vbox (0.61891pt too high) has occurred while \output is active []
-
-
-[121]
+[120]
 luaotfload | aux : font no 110 (nil) defines no feature for script latn
 luaotfload | aux : font no 110 (nil) defines no feature for script dflt
 
@@ -1816,12 +1812,12 @@ Package microtype Info: Character `textexclamdown ' is missing
 Package microtype Info: Character `textquestiondown ' is missing
 (microtype)             in font `TU/ArialHebrew(0)/m/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
- [122]) (./Z-colofon.tex [123]
+ [121]) (./Z-colofon.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 37.
-)) [124]
+)) [122]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1863,7 +1859,7 @@ Here is how much of LuaTeX's memory you used:
  1436 words of node memory still in use:
    5 hlist, 1 vlist, 2 rule, 19 glue, 3 kern, 1 glyph, 41 attribute, 198 glue_sp
 ec, 22 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:812,3:92,4:38,5:1051,6:24,7:2981,8:2,9:253,10:22,11:293
+   avail lists: 2:812,3:92,4:38,5:1049,6:24,7:2986,8:2,9:253,10:22,11:290
  30423 multiletter control sequences out of 65536+600000
  133 fonts using 20232139 bytes
  53i,12n,102p,945b,418s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1878,10 +1874,10 @@ c/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandi
 s/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
 msfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (124 pages, 430438 bytes).
+Output written on LIVRO.pdf (122 pages, 428812 bytes).
 
-PDF statistics: 479 PDF objects out of 1000 (max. 8388607)
- 315 compressed objects within 4 object streams
+PDF statistics: 473 PDF objects out of 1000 (max. 8388607)
+ 311 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

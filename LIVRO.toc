@@ -12,17 +12,17 @@
 \contentsline {chapter}{Tirando a sorte}{48}%
 \contentsline {chapter}{Um passo atrás}{55}%
 \contentsline {chapter}{O casamento em Recife}{59}%
-\contentsline {chapter}{Ganhando a vida nos anos 30}{67}%
-\contentsline {chapter}{Um ativista comunitário}{74}%
-\contentsline {chapter}{Com meus irmãos, na América}{83}%
-\contentsline {chapter}{Uma vida no Brasil}{90}%
-\contentsline {chapter}{A mudança para São Paulo}{94}%
-\contentsline {chapter}{O cinema no Bom Retiro}{101}%
-\contentsline {chapter}{Negócios em família}{104}%
-\contentsline {chapter}{Tempos de crise}{109}%
-\contentsline {chapter}{Posfácio, \textit {por Roney Cytrynowicz}}{112}%
-\contentsline {section}{a decisão de emigrar}{113}%
-\contentsline {section}{a inserção social e econômica}{115}%
-\contentsline {section}{a vida comunitária}{117}%
-\contentsline {section}{um anti-herói}{118}%
+\contentsline {chapter}{Ganhando a vida nos anos 30}{66}%
+\contentsline {chapter}{Um ativista comunitário}{73}%
+\contentsline {chapter}{Com meus irmãos, na América}{82}%
+\contentsline {chapter}{Uma vida no Brasil}{89}%
+\contentsline {chapter}{A mudança para São Paulo}{93}%
+\contentsline {chapter}{O cinema no Bom Retiro}{100}%
+\contentsline {chapter}{Negócios em família}{103}%
+\contentsline {chapter}{Tempos de crise}{108}%
+\contentsline {chapter}{Posfácio, \textit {por Roney Cytrynowicz}}{111}%
+\contentsline {section}{a decisão de emigrar}{112}%
+\contentsline {section}{a inserção social e econômica}{114}%
+\contentsline {section}{a vida comunitária}{116}%
+\contentsline {section}{um anti-herói}{117}%
 \babel@toc {brazilian}{}
