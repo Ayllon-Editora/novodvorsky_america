@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  16 NOV 2021 12:51
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  16 NOV 2021 17:40
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1859,7 +1859,7 @@ Here is how much of LuaTeX's memory you used:
  1436 words of node memory still in use:
    5 hlist, 1 vlist, 2 rule, 19 glue, 3 kern, 1 glyph, 41 attribute, 198 glue_sp
 ec, 22 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:812,3:92,4:38,5:1049,6:24,7:2986,8:2,9:253,10:22,11:290
+   avail lists: 2:812,3:92,4:38,5:1049,6:24,7:2804,8:2,9:253,10:22,11:290
  30423 multiletter control sequences out of 65536+600000
  133 fonts using 20232139 bytes
  53i,12n,102p,945b,418s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1874,7 +1874,7 @@ c/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandi
 s/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
 msfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (122 pages, 428812 bytes).
+Output written on LIVRO.pdf (122 pages, 428270 bytes).
 
 PDF statistics: 473 PDF objects out of 1000 (max. 8388607)
  311 compressed objects within 4 object streams
