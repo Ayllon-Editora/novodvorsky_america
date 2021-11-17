@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  16 NOV 2021 20:14
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  17 NOV 2021 12:00
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.090 seconds
+luaotfload | main : initialization completed in 0.100 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1431,7 +1431,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--64
 Class memoir Warning: The material used in the headers is too large
 (12.0pt) for the given head height (11.38109pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 30.
+(in both cases you will find help in the memoir manual). on input line 29.
 
 
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
@@ -1442,9 +1442,9 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 45.
+(Font)              <7> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 45.
+(Font)              <5> on input line 44.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
@@ -1457,7 +1457,7 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
 [9]
-Underfull \hbox (badness 4927) in paragraph at lines 74--87
+Underfull \hbox (badness 4927) in paragraph at lines 73--86
 \TU/MinionPro(0)/m/n/10 se como uma al-ter-na-tiva às res-tri-ções norte-
  []
 
@@ -1498,6 +1498,8 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 [20
 
 ]
+Inserting `luaotfload.letterspace' at position 2 in `pre_linebreak_filter'.
+Inserting `luaotfload.letterspace' at position 2 in `hpack_filter'.
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1552,6 +1554,11 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
 [32]
+Underfull \hbox (badness 1354) in paragraph at lines 327--328
+[]\TU/MinionPro(0)/m/n/10/-10ls Nunca per-gun-tava quanto iam me pa-gar ou
+ []
+
+
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1730,7 +1737,7 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
 [73]
-Underfull \hbox (badness 1112) in paragraph at lines 1188--1190
+Underfull \hbox (badness 1112) in paragraph at lines 1187--1189
 []\TU/MinionPro(0)/m/n/10 Con-ser-ta-mos o pré-dio e mu-da-mos a es-cola.
  []
 
@@ -1930,8 +1937,8 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 [118](load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/ot
 l/arialhb-1.luc)
-luaotfload | aux : font no 88 (nil) defines no feature for script latn
-luaotfload | aux : no font with id 88
+luaotfload | aux : font no 92 (nil) defines no feature for script latn
+luaotfload | aux : no font with id 92
 .................................................
 . fontspec info: "no-scripts"
 . 
@@ -1953,9 +1960,9 @@ luaotfload | aux : no font with id 88
 . 
 . Could not resolve font "ArialHebrew/I" (it probably doesn't exist).
 .................................................
-luaotfload | aux : font no 88 (nil) does not define feature smcp for script  wit
+luaotfload | aux : font no 92 (nil) does not define feature smcp for script  wit
 h language 
-luaotfload | aux : no font with id 88
+luaotfload | aux : no font with id 92
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -2175,14 +2182,15 @@ either increase the head height or redesign the header
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 20300 strings out of 494480
+ 20321 strings out of 494480
  100000,794899 words of node,token memory allocated
- 1377 words of node memory still in use:
-   5 hlist, 1 vlist, 2 rule, 19 glue, 22 attribute, 199 glue_spec, 22 attribute_
-list, 3 shape, 3 write nodes
-   avail lists: 1:3,2:552,3:92,4:38,5:1037,6:2253,7:674,8:52,9:201,10:22,11:290
- 23505 multiletter control sequences out of 65536+600000
- 105 fonts using 18637511 bytes
+ 11442 words of node memory still in use:
+   5 hlist, 1 vlist, 2 rule, 19 glue, 1662 glyph, 44 attribute, 200 glue_spec, 4
+4 attribute_list, 3 shape, 3 write nodes
+   avail lists: 1:3,2:508,3:92,4:92,5:1192,6:2075,7:1224,8:52,9:201,10:65,11:367
+
+ 23512 multiletter control sequences out of 65536+600000
+ 109 fonts using 19772263 bytes
  45i,12n,83p,945b,399s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/edlab/texmf/tex/fonts/ArialHB.ttc>{/usr/share/texlive/texmf-dist/fonts/en
 c/dvips/adforn/OrnementsADF.enc}</home/edlab/texmf/tex/fonts/Formular-Bold.otf><
@@ -2193,7 +2201,7 @@ otf></usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share/t
 exlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (120 pages, 407181 bytes).
+Output written on LIVRO.pdf (120 pages, 403368 bytes).
 
 PDF statistics: 451 PDF objects out of 1000 (max. 8388607)
  298 compressed objects within 3 object streams
