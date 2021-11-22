@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  21 NOV 2021 22:42
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  22 NOV 2021 11:16
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1539,9 +1539,7 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[100
-
-]
+[100]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1878,7 +1876,7 @@ c/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandi
 s/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
 msfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (122 pages, 429855 bytes).
+Output written on LIVRO.pdf (122 pages, 429897 bytes).
 
 PDF statistics: 473 PDF objects out of 1000 (max. 8388607)
  311 compressed objects within 4 object streams

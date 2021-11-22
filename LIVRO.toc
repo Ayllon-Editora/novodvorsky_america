@@ -17,8 +17,7 @@
 \contentsline {chapter}{Um ativista comunitário}{73}%
 \contentsline {chapter}{Com meus irmãos, na América}{82}%
 \contentsline {chapter}{Uma vida no Brasil}{89}%
-\contentsline {chapter}{A mudança para São Paulo}{93}%
-\contentsline {chapter}{O cinema no Bom Retiro}{100}%
+\contentsline {chapter}{O cinema no Bom Retiro}{93}%
 \contentsline {chapter}{Negócios em família}{103}%
 \contentsline {chapter}{Tempos de crise}{108}%
 \contentsline {chapter}{Posfácio, \textit {por Roney Cytrynowicz}}{111}%
