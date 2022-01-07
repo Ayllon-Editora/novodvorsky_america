@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  26 NOV 2021 10:14
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  6 JAN 2022 21:19
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1251,7 +1251,7 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
 [34]
-Underfull \hbox (badness 1496) in paragraph at lines 326--327
+Underfull \hbox (badness 1496) in paragraph at lines 328--329
 []\TU/MinionPro(0)/m/n/10/-10ls Nunca per-gun-tava quanto iam me pa-gar ou
  []
 
@@ -1539,7 +1539,9 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[100]
+[100
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1551,13 +1553,13 @@ Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[103
-
-]
+[103]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
-[104]
+[104
+
+]
 Overfull \vbox (0.61891pt too high) has occurred while \output is active []
 
 
@@ -1858,13 +1860,13 @@ either increase the head height or redesign the header
 Here is how much of LuaTeX's memory you used:
  13502 strings out of 480992
  100000,794899 words of node,token memory allocated
- 1454 words of node memory still in use:
-   5 hlist, 1 vlist, 2 rule, 20 glue, 3 kern, 1 glyph, 43 attribute, 199 glue_sp
-ec, 23 attribute_list, 3 shape, 3 write nodes
-   avail lists: 2:815,3:92,4:93,5:1510,6:20,7:2907,8:2,9:243,10:70,11:309
+ 1467 words of node memory still in use:
+   5 hlist, 1 vlist, 2 rule, 21 glue, 3 kern, 1 glyph, 45 attribute, 199 glue_sp
+ec, 24 attribute_list, 3 shape, 3 write nodes
+   avail lists: 2:812,3:92,4:93,5:1510,6:20,7:2907,8:2,9:243,10:70,11:309
  30443 multiletter control sequences out of 65536+600000
  138 fonts using 21418163 bytes
- 53i,12n,102p,1111b,418s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 53i,12n,102p,1095b,418s stack positions out of 5000i,500n,10000p,200000b,100000s
 </System/Library/Fonts/ArialHB.ttc>{/usr/local/texlive/2020/texmf-dist/fonts/enc
 /dvips/adforn/OrnementsADF.enc}</Users/suzana/Library/Fonts/MinionPro-It.otf></U
 sers/suzana/Library/Fonts/MinionPro-Regular.otf></Users/suzana/Library/Fonts/For
@@ -1876,7 +1878,7 @@ c/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandi
 s/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
 msfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (122 pages, 430252 bytes).
+Output written on LIVRO.pdf (122 pages, 430485 bytes).
 
 PDF statistics: 473 PDF objects out of 1000 (max. 8388607)
  311 compressed objects within 4 object streams

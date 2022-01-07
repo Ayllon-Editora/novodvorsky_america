@@ -6,7 +6,7 @@
 \contentsline {chapter}{A partida da Polônia}{19}%
 \contentsline {chapter}{Os primeiros anos na Argentina}{22}%
 \contentsline {chapter}{Da capital ao interior}{27}%
-\contentsline {chapter}{De charrete em Mosesville}{31}%
+\contentsline {chapter}{De charrete em Moisés Ville}{31}%
 \contentsline {chapter}{Do trabalho aos palcos}{33}%
 \contentsline {chapter}{Primeira parada rumo ao Norte}{40}%
 \contentsline {chapter}{Rio de Janeiro e seus caminhos}{43}%
@@ -18,8 +18,9 @@
 \contentsline {chapter}{Com meus irmãos, na América}{82}%
 \contentsline {chapter}{Uma vida no Brasil}{89}%
 \contentsline {chapter}{O cinema no Bom Retiro}{93}%
-\contentsline {chapter}{Negócios em família}{103}%
-\contentsline {chapter}{Tempos de crise}{108}%
+\contentsline {chapter}{Negócios em família}{100}%
+\contentsline {chapter}{Tempos de crise}{104}%
+\contentsline {chapter}{De cabeça erguida}{108}%
 \contentsline {chapter}{Posfácio, \textit {por Roney Cytrynowicz}}{111}%
 \contentsline {section}{a decisão de emigrar}{112}%
 \contentsline {section}{a inserção social e econômica}{114}%

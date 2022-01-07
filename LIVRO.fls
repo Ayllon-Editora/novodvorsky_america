@@ -1,4 +1,4 @@
-PWD /Users/suzana/Desktop/EDLAB/EDITORIAL/LATEX/novodvorsky_america
+PWD /Users/suzana/Desktop/EDITORA/EDITORIAL/LATEX/novodvorsky_america
 INPUT /usr/local/texlive/2020/texmf-var/web2c/luahbtex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log
