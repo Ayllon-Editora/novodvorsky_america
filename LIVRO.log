@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  6 JAN 2022 21:19
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  31 JAN 2022 17:24
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1878,7 +1878,7 @@ c/lm/lmmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandi
 s/adforn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
 msfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (122 pages, 430485 bytes).
+Output written on LIVRO.pdf (122 pages, 430609 bytes).
 
 PDF statistics: 473 PDF objects out of 1000 (max. 8388607)
  311 compressed objects within 4 object streams
