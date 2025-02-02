@@ -1,0 +1,28 @@
+\thispagestyle {empty}
+\contentsline {chapter}{Apresentação, \textit {por Lilian Starobinas}}{9}%
+\contentsline {section}{a árvore genealógica}{14}%
+\contentsline {part}{Em busca de meus irmãos na América}{19}%
+\contentsline {chapter}{A partida da Polônia}{21}%
+\contentsline {chapter}{Chegada à Argentina}{23}%
+\contentsline {chapter}{Da capital ao interior}{29}%
+\contentsline {chapter}{De charrete em Moisés Ville}{33}%
+\contentsline {chapter}{Do trabalho aos palcos}{37}%
+\contentsline {chapter}{Primeira parada rumo ao norte}{45}%
+\contentsline {chapter}{Rio de Janeiro e seus caminhos}{49}%
+\contentsline {chapter}{Tirando a sorte}{55}%
+\contentsline {chapter}{Um passo atrás}{63}%
+\contentsline {chapter}{O casamento em Recife}{67}%
+\contentsline {chapter}{Ganhando a vida nos anos 30}{75}%
+\contentsline {chapter}{Um ativista comunitário}{83}%
+\contentsline {chapter}{Uma vida no Brasil}{101}%
+\contentsline {chapter}{O cinema no Bom Retiro}{107}%
+\contentsline {chapter}{Negócios em família}{115}%
+\contentsline {chapter}{Tempos de crise}{119}%
+\contentsline {chapter}{De cabeça erguida}{123}%
+\contentsline {part}{Apêndice}{127}%
+\contentsline {chapter}{Posfácio, \textit {por Roney Cytrynowicz}}{129}%
+\contentsline {section}{a decisão de emigrar}{130}%
+\contentsline {section}{a inserção social e econômica}{132}%
+\contentsline {section}{a vida comunitária}{134}%
+\contentsline {section}{um anti-herói}{135}%
+\babel@toc {brazilian}{}
