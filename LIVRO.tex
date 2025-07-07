@@ -27,7 +27,7 @@
 \usepackage{url}					% para citar sites \url
 \usepackage{marginnote}					% para notas laterais
 \usepackage{titlesec}					% para produzir os distanciamentos entre pontos no \dotfill
-
+\usepackage{textpos}
 %\usepackage{makeidx} 					% para índice remissivo
 
 \usepackage{edlab-penalties}
@@ -42,7 +42,7 @@
 			% notalinhalonga
 			chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
 			]{edlab-footnotes}
-
+% \usepackage[squarebr]{gmverse}
 
 % Medidas (ver: memoir p.11 fig.2.3)
 \parindent=3ex			% Tamanho da indentação
@@ -55,18 +55,28 @@
 \newfontfamily\formularlight{Formular Light}
 \setmainfont[Ligatures=TeX,Numbers=OldStyle]{Minion Pro}
 \newfontfamily\arial{Arial Hebrew}        
-\newfontfamily\ariallight{ArialHebrew-Light}  
+\newfontfamily\ariallight{ArialHebrew-Light}        
 
 % Estilos
-\makeoddhead{baruch}{}{\scshape\MakeLowercase{\scshape\MakeTextLowercase{}}}{}
-\makeevenhead{baruch}{}{\scshape\MakeLowercase{}}{}
+\copypagestyle{posf}{baruch}
+\makeoddhead{posf}{}{\formularlight\tiny{}}{}
+\makeevenhead{posf}{}{\formularlight\tiny{}}{}
+\makeevenfoot{posf}{}{\footnotesize\thepage}{}
+\makeoddfoot{posf}{}{\footnotesize\thepage}{}
+
+\makeoddhead{baruch}{}{\formularlight\tiny\MakeUppercase{}}{}
+\makeevenhead{baruch}{}{\formularlight\tiny{}}{}
 \makeevenfoot{baruch}{}{\footnotesize\thepage}{}
 \makeoddfoot{baruch}{}{\footnotesize\thepage}{}
 \pagestyle{baruch}		
 \headstyles{baruch}
-\linespread{1.1}
 
-% Testes
+\copypagestyle{apendice}{baruch}
+\makeoddhead{apendice}{}{\formularlight\tiny\MakeUppercase{}}{}
+\makeevenhead{apendice}{}{\formularlight\tiny{}}{}
+\makeevenfoot{apendice}{}{\footnotesize\thepage}{}
+\makeoddfoot{apendice}{}{\footnotesize\thepage}{}
+
 \begin{document}
 \include{INPUTS}
 \checkandfixthelayout
