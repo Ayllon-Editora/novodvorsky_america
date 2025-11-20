@@ -172,8 +172,6 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 OUTPUT INPUTS.aux
 INPUT ./INPUTS.tex
 INPUT ./1-fronte.tex
-INPUT ./FRONTE/FRONTE.pdf
-INPUT ./FRONTE/FRONTE.pdf
 INPUT /Users/suzana/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
 INPUT /Users/suzana/Library/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
 OUTPUT LIVRO.pdf
